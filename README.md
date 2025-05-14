@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sethdford-vibe-coder-mcp-badge.png)](https://mseep.ai/app/sethdford-vibe-coder-mcp)
+
 # Vibe Coder MCP Server
 
 Vibe Coder is an MCP (Model Context Protocol) server designed to supercharge your AI assistant (like Cursor, Cline AI, or Claude Desktop) with powerful tools for software development. It helps with research, planning, generating requirements, creating starter projects, and more!
